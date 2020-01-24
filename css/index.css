@@ -292,6 +292,7 @@ body {
   text-align: center;
   border-radius: 10px;
   cursor: pointer;
+  padding: 7% 0;
 }
 @media (max-width: 500px) {
   .home .walk .walk-text .btn {
