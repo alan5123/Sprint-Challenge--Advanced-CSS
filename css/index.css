@@ -206,16 +206,23 @@ footer {
   align-items: center;
 }
 body {
-  margin: 2% 3%;
+  margin: 2% 7%;
+}
+.home img {
+  border-radius: 10px;
+  width: 100%;
 }
 .home .headerpic {
   width: 100%;
   border-radius: 7px;
 }
 .home .intro h2 {
+  width: 100%;
   padding: 15px;
+  text-align: left;
 }
 .home .intro p {
+  font-weight: bold;
   padding: 0 15px;
 }
 .home .space-images {
@@ -246,6 +253,7 @@ body {
   margin-top: 11px;
 }
 .home .visit-planets p {
+  font-weight: bold;
   margin-top: 13px;
 }
 .home .walk {
@@ -263,6 +271,7 @@ body {
 }
 .home .walk .walk-text {
   width: 50%;
+  font-weight: bold;
 }
 @media (max-width: 500px) {
   .home .walk .walk-text {
