@@ -222,6 +222,7 @@ body {
   text-align: left;
 }
 .home .intro p {
+  font-size: 17px;
   font-weight: bold;
   padding: 0 15px;
 }
