@@ -206,7 +206,7 @@ footer {
   align-items: center;
 }
 body {
-  margin: 2% 7%;
+  margin: 2% 10%;
 }
 .home img {
   border-radius: 10px;
@@ -229,11 +229,6 @@ body {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
-}
-@media (max-width: 500px) {
-  .home .space-images .onetime {
-    display: none;
-  }
 }
 @media (max-width: 500px) {
   .home .space-images {
@@ -267,6 +262,7 @@ body {
   .home .walk {
     flex-direction: column-reverse;
     align-items: center;
+    padding: 2rem 0;
   }
 }
 .home .walk .walk-text {
